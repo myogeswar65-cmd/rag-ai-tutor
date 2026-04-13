@@ -50,7 +50,7 @@ User Query
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/rag-ai-tutor.git
+git clone https://github.com/myogeswar65-cmd/rag-ai-tutor.git
 cd rag-ai-tutor
 pip install -r requirements.txt
 streamlit run app.py
